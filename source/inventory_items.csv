@@ -1,0 +1,21 @@
+﻿inventory_item_id,item_name,item_category,unit
+ING001,Beef,Meat,KG
+ING002,Chicken,Meat,KG
+ING003,Burger Bun,Bakery,PCS
+ING004,Pizza Dough,Bakery,PCS
+ING005,Mozzarella,Dairy,KG
+ING006,Potatoes,Vegetables,KG
+ING007,Soft Drink,Beverages,PCS
+ING008,Packaging Box,Packaging,PCS
+ING009,Lettuce,Vegetables,KG
+ING010,Cooking Oil,Oil,L
+ING011,Tomato,Vegetables,KG
+ING012,Onion,Vegetables,KG
+ING013,Rice,Grains,KG
+ING014,Flour,Bakery,KG
+ING015,Chocolate,Dessert,KG
+ING016,Coffee Beans,Beverages,KG
+ING017,Fish Fillet,Seafood,KG
+ING018,Cheese Sauce,Dairy,KG
+ING019,Paper Cups,Packaging,PCS
+ING020,Lids,Packaging,PCS

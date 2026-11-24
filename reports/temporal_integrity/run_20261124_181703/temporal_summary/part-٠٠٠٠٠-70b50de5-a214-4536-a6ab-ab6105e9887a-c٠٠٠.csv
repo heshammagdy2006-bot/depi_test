@@ -1,0 +1,6 @@
+rule_id,rule_name,severity,violation_count
+T05,Allocation Before Request Creation,ERROR,21504
+T06,Allocation Sequence Temporal Mismatch,WARNING,15353
+T07,Shipment Before Request Creation,ERROR,5346
+T09,Inventory Movement Before Request Creation,WARNING,21504
+T10,Inventory Consumption Before Order,WARNING,17483

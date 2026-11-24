@@ -1,0 +1,17 @@
+﻿table_name,column_name,date_type,invalid_date_count
+branch_inventory,last_updated_at,TIMESTAMP,0
+branch_inventory_transactions,transaction_datetime,TIMESTAMP,0
+customers,created_at,TIMESTAMP,0
+inventory_movements,movement_datetime,TIMESTAMP,0
+menu_prices,valid_from,DATE,0
+menu_prices,valid_to,DATE,0
+order_status_history,status_datetime,TIMESTAMP,0
+orders,order_datetime,TIMESTAMP,0
+purchase_orders,order_date,DATE,0
+purchase_orders,expected_delivery_date,DATE,0
+replenishment_requests,request_created_at,TIMESTAMP,0
+replenishment_status_history,status_datetime,TIMESTAMP,0
+shipments,dispatched_at,TIMESTAMP,0
+shipments,received_at,TIMESTAMP,0
+warehouse_allocations,allocation_datetime,TIMESTAMP,0
+warehouse_inventory,last_updated_at,TIMESTAMP,0

@@ -1,0 +1,6 @@
+﻿branch_id,branch_name,city,address,is_active
+BR001,Mansoura Downtown,Mansoura,"El Gomhoria Street, Mansoura",True
+BR002,Talkha Branch,Talkha,"Talkha Main Road, Talkha",True
+BR003,New Cairo Branch,Cairo,"Fifth Settlement, Cairo",True
+BR004,Mansoura University Branch,Mansoura,"University District, Mansoura",True
+BR005,Nasr City Branch,Cairo,"Nasr City, Cairo",True

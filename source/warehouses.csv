@@ -1,0 +1,5 @@
+﻿warehouse_id,warehouse_name,city,address,is_active
+WH001,Mansoura Central Warehouse,Mansoura,"Industrial Zone, Mansoura",True
+WH002,Talkha Warehouse,Talkha,Talkha Logistics Area,True
+WH003,Cairo Warehouse,Cairo,"Obour Logistics Area, Cairo",True
+WH004,Delta Regional Warehouse,Tanta,Tanta Logistics Area,True
